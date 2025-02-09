@@ -1,2 +1,3 @@
 # hello-world
-Practicing the Github Flow 
+Practicing the GitHub Flow 
+Figuring out the ins and outs of Github
